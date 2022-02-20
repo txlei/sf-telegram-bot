@@ -8,4 +8,4 @@ content-type: application/json
 }
 
 ### send file to BFC group chat
-curl -F document=@"Downloads/sf-05feb.pdf" https://api.telegram.org/bot5229024653:AAF7a7Zc6ouaqMIlUwDh2AYPLdEFoMZEENI/sendDocument?chat_id=-381122412
+curl -F document=@"Downloads/ServiceFeedback-BoldestforChrist2–12Feb2022.pdf" https://api.telegram.org/bot5229024653:AAF7a7Zc6ouaqMIlUwDh2AYPLdEFoMZEENI/sendDocument?chat_id=-381122412

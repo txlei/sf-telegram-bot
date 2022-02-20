@@ -3,7 +3,7 @@ content-type: application/json
 
 {
     "chat_id": -381122412,
-    "text" : "Hi there, I am your service feedback collector. I appear exclusively on Sundays so please don't 👻 me tyvm. Redeem your surprise gift after you have sent your sf by clicking on the button below 👇🏻. \n\nIf you encounter some technical difficulties, please contact support and in the meanwhile send your sf to: \n\nhttps://docs.google.com/forms/d/e/1FAIpQLSeMtjJh-MlrhsuIn069ztAbKhrRIjcVi7wJGwS5hqZFf53jfQ/viewform",
+    "text" : "Morning people!~ \n\nFirst things first to start your day 👇",
     "parse_mode" : "markdown",
     "reply_markup" : {
         "inline_keyboard" : [
@@ -60,11 +60,3 @@ content-type: application/json
 }
 
 ###
-
-POST https://api.telegram.org/bot5229024653:AAF7a7Zc6ouaqMIlUwDh2AYPLdEFoMZEENI/sendMessage
-content-type: application/json
-
-{
-    "chat_id" : -777532938,
-    "text" : "test message"
-}
